@@ -1,0 +1,91 @@
+.no_hp input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.no_hp input[type=number]::-webkit-inner-spin-button{
+    opacity: 1;}
+
+.angkatan input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.angkatan input[type=number]::-webkit-inner-spin-button{
+    opacity: 1; }
+
+.nim input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.nim input[type=number]::-webkit-inner-spin-button{
+    opacity: 1; }
+
+.tb_mahasiswa{
+    color: #000000;
+    font-size: 12px;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 14px;
+}
+
+.tb_mahasiswa th{
+    padding: 10px;
+    margin: 0;
+    border: 1px solid #999999;
+    background: #ccccff;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.tb_mahasiswa td{
+    padding: 5px;
+    border: 1px solid #999999;
+    background: #fafafa;
+    background: -moz-linear-gradient(top, #fbfbfb, #fafafa);
+    position: relative;
+}
+
+.tb_mahasiswa tr:hover td{
+    background: #f2f2f2;
+}
+
+.btn_action{
+    font-size: 12px;
+}
+
+.tb_tata_usaha{
+    color: #000000;
+    font-size: 12px;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    font-size: 14px;
+}
+
+.tb_tata_usaha th{
+    padding: 10px;
+    margin: 0;
+    border: 1px solid #999999;
+    background: #ccccff;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.tb_tata_usaha td{
+    padding: 5px;
+    border: 1px solid #999999;
+    background: #fafafa;
+    background: -moz-linear-gradient(top, #fbfbfb, #fafafa);
+    position: relative;
+}
+
+.tb_tata_usaha tr:hover td{
+    background: #f2f2f2;
+}
+
