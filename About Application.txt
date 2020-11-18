@@ -1,0 +1,37 @@
+Browser			: Google Chrome 86.0.4240.198
+Programming Laguage	: PHP v5.6.3.1
+Web Server (Local)	: XAMPP v5.6.3.1
+Text Editor		: Sublime Text v.3.2.2
+Framework		: COdeIgniter 3.1.1
+Library			: - Bootstrap 4.3.1
+			  - Datatables 1.10.22
+Template		: SB Admin 2 (https://startbootstrap.com/theme/sb-admin-2)
+
+
+
+APP ABSENSI
+
+1. Administrator	-> Login, 
+			   Kelola (CRUD) user Tata Usaha 
+			   Kelola (CRUD) user Dosen 
+			   Kelola (CRUD) user Mahasiswa 
+			   Ganti Password 
+			   Logout
+
+2. Tata Usaha		-> Login
+			   Kelola (CRUD) Mata Kuliah 
+			   Mengganti status absen mahasiswa (Bila mahasiswa mengantarkan surat izin ke tata usaha, dan tata usaha memeriksa kevalidan surat izin tersebut)
+			   Ganti Password
+			   Logout
+
+3. Dosen 		-> Login
+			   Mengabsen Mahasiswa berdasarkan mata kuliah dan pertemuan
+			   Ganti Password
+			   Logout
+
+4. Mahasiswa		-> Login
+			   Melihat status absensi (Bila tidak hadir tapi ada surat izin, surat izin harus diantar ke Tata Usaha)
+			   Ganti Password
+			   Logout
+
+
